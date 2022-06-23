@@ -13,3 +13,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+##Screenshot
+![image](https://user-images.githubusercontent.com/65256184/175422103-c8753d4a-f18e-4566-b29f-924d156bbb24.png)
